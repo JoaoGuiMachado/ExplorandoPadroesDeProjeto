@@ -1,4 +1,4 @@
-package PadroesProjeto;
+package PadroesProjeto.Singleton;
 
 public class Test {
     
